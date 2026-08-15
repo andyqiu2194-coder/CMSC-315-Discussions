@@ -33,3 +33,8 @@ Your reflection should be approximately 150–200 words and address the followin
 2. What challenges did you encounter, and how did you overcome them?
 3. Compare OOP to procedural programming.
 4. Discuss the benefits of maintainability and reusability and apply this managing overhead, practical application development, and future use.
+
+5. Completing this assignment helped me better understand object-oriented programming concepts, including classes, objects, encapsulation, inheritance, and special methods in Python. I learned how classes can serve as blueprints for creating objects and how methods allow those objects to perform specific tasks.
+6. One challenge I encountered was understanding how inheritance and class variables work together. I overcame this by testing my code with different objects and observing how changes to a class variable affected multiple instances. Debugging the program also helped me understand how each part of the code worked.
+7. Object-oriented programming organizes code around classes and objects, while procedural programming generally organizes code around functions and a sequence of instructions. OOP helps group related data and functionality together, which can make larger programs easier to understand.
+8. Maintainability and reusability are important benefits of OOP because developers can modify or reuse existing classes without rewriting an entire program. This reduces development overhead and makes applications easier to expand and update. In future software projects, I can use reusable classes and components to save development time and make programs more efficient.
