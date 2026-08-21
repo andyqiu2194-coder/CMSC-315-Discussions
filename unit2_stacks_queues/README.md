@@ -37,7 +37,7 @@ Your reflection should be approximately 150–200 words and address the followin
 
 Completing this assignment helped me better understand how stacks and queues work and how they are implemented in Python. I learned that a stack follows LIFO, meaning the most recently added item is the first one removed. A queue follows FIFO, meaning the first item added is the first one removed. I also practiced using methods such as push, pop, peek, enqueue, dequeue, and front.
 
-One challenge I encountered was understanding how to handle empty stacks and queues. I overcame this by adding checks before removing or viewing items and raising an `IndexError` when the data structure was empty. Testing these edge cases helped me understand why error handling is important in programming.
+One challenge I encountered was understanding how to handle empty stacks and queues. I overcame this by adding checks before removing or viewing items and raising an IndexError when the data structure was empty. Testing these edge cases helped me understand why error handling is important in programming.
 
 Stacks and queues are also useful in real-world applications. Stacks can be used for browser history, undo functions, and tracking actions because the most recent action is usually handled first. Queues are useful for customer service lines, printer jobs, and support tickets because requests are handled in the order they are received. Overall, this assignment gave me a better understanding of how these data structures organize and manage information.
 
